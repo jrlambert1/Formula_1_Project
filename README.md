@@ -42,6 +42,7 @@ In the end the data looked like:
 2. 2017 as the testing dataset
 3. Numerous Engineered features(ex. creating probability based on budgetary spending of each team during the year)
 <img width="385" alt="screen shot 2018-10-25 at 4 30 49 pm" src="https://user-images.githubusercontent.com/34430819/47536133-6dd03380-d873-11e8-9320-da39801c7965.png">
+
 ## Explore Data
 ### Data Cleaning
 
