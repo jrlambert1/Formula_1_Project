@@ -6,7 +6,7 @@
 
 ## Predicting and Analyzing Race Results During a F1 Season
 
-Goal:  The primary goal of this project was to predict a Formula 1 race winner from that season's team and driver stats.  The ultimate ambition for this project is to use a predictive model as a starting point for insight as to racer and team success to provide a foundational foundation as to how well a team/driver will do based on those metrics.
+**Goal:** The primary goal of this project was to predict a Formula 1 race winner from that season's team and driver stats.  The ultimate ambition for this project is to use a predictive model as a starting point for insight as to racer and team success to provide a foundational foundation as to how well a team/driver will do based on those metrics.
 
 ## Define the Question
 
@@ -33,5 +33,8 @@ The following teams have a higher percentage of winning due to yearly budgetary 
 
 I didn't include McLaren or Renault into this calculation based on their lack of success in recent years.  
   
+Note: The Reason I chose the 1991 season and onward as my training example is due to:
+
+1. 1991 was Michael Schumacher's rookie season and the most winningest driver of all time in Formula 1
 
 
