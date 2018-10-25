@@ -48,4 +48,6 @@ In the end the data looked like:
 
 Having the datasets come from Kaggle, the information is relatively clean and doesn't have many nulls.  The issue is relevant information is only available to certain periods of time such as qualifying lap times for every year.  (Qualifying information on Kaggle contained roughly a quarter of all races)
 
-
+## Here is a snapshot description of model preparation including:
+1. renamed columns to better describe column 
+2. renamed misspelt names (ex. Finish Surnames needed to be changed for accuracy)
