@@ -40,8 +40,8 @@ I didn't include McLaren or Renault into this calculation based on their lack of
 In the end the data looked like:
 1. 1991 - 2016 as the training dataset
 2. 2017 as the testing dataset
-3. Numerous Engineered features
-
+3. Numerous Engineered features(ex. creating probability based on budgetary spending of each team during the year)
+(https://github.com/jrlambert1/Formula_1_Project/files/2517099/2016_F1_Budget.xlsx)
 ## Explore Data
 ### Data Cleaning
 
