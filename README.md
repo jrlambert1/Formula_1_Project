@@ -30,6 +30,7 @@ The following teams have a higher percentage of winning due to yearly budgetary 
 1. Ferrari
 2. Red Bull
 3. Mercedes AMG
+
 I didn't include McLaren or Renault into this calculation based on their lack of success in recent years.  
   
 
