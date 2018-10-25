@@ -21,6 +21,8 @@ Formula 1 is broken down into two championships: a team championship where two d
 2.  You could bet on it in a betting platform if you believe in your model
 3.  I have a passion for the sport and wanted to dive more in the data for some new insight and knowledge to further my    interests involving the sport
   
+## Data Gathering
+The data was gathered from a project on Kaggle.(< https://www.kaggle.com/cjgdev/formula-1-race-data-19502017> )
 
   
 
