@@ -45,7 +45,6 @@ In the end the data looked like:
 ## Explore Data
 ### Data Cleaning
 
-Having the datasets come from Kaggle, the information is relatively clean and doesn't have many nulls.  The issue is relevant information is only available to certain periods of time such as qualifying lap times for every year.
--Qualifying information on Kaggle contained roughly a quarter of all races
+Having the datasets come from Kaggle, the information is relatively clean and doesn't have many nulls.  The issue is relevant information is only available to certain periods of time such as qualifying lap times for every year.  (Qualifying information on Kaggle contained roughly a quarter of all races)
 
 
