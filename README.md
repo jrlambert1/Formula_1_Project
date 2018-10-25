@@ -33,7 +33,7 @@ The following teams have a higher percentage of winning due to yearly budgetary 
 
 I didn't include McLaren or Renault into this calculation based on their lack of success in recent years.  
   
-Note: The Reason I chose the 1991 season and onward as my training example is due to:
+**Note:** The Reason I chose the 1991 season and onward as my training example is due to:
 
 1. 1991 was Michael Schumacher's rookie season and the most winningest driver of all time in Formula 1
 
