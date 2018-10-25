@@ -24,6 +24,13 @@ Formula 1 is broken down into two championships: a team championship where two d
 ## Data Gathering
 The data was gathered from a project on Kaggle.(< https://www.kaggle.com/cjgdev/formula-1-race-data-19502017> )
 
+In addition, I researched what teams spend in a year and created a probability column indicating the likelihood of winning a race depending on the amount of money they spend in a year.
+
+The following teams have a higher percentage of winning due to yearly budgetary expenses:
+1. Ferrari
+2. Red Bull
+3. Mercedes AMG
+I didn't include McLaren or Renault into this calculation based on their lack of success in recent years.  
   
 
 
