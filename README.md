@@ -37,4 +37,15 @@ I didn't include McLaren or Renault into this calculation based on their lack of
 
 1. 1991 was Michael Schumacher's rookie season and the most winningest driver of all time in Formula 1
 
+In the end the data looked like:
+1. 1991 - 2016 as the training dataset
+2. 2017 as the testing dataset
+3. Numerous Engineered features
+
+## Explore Data
+### Data Cleaning
+
+Having the datasets come from Kaggle, the information is relatively clean and doesn't have many nulls.  The issue is relevant information is only available to certain periods of time such as qualifying lap times for every year.
+-Qualifying information on Kaggle contained roughly a quarter of all races
+
 
