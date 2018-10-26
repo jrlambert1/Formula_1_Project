@@ -35,6 +35,8 @@ The following teams have a higher percentage of winning due to yearly budgetary 
 
 <img width="350" alt="screen shot 2018-10-26 at 11 06 58 am" src="https://user-images.githubusercontent.com/34430819/47584667-0ae0aa00-d910-11e8-8b73-adbdb95838d4.png">
 
+<img width="188" alt="screen shot 2018-10-26 at 11 06 40 am" src="https://user-images.githubusercontent.com/34430819/47584820-86425b80-d910-11e8-9c97-f9d842aa14ce.png">
+
 I didn't include McLaren or Renault into this calculation based on their lack of success in recent years.  
   
 **Note:** The Reason I chose the 1991 season and onward as my training example is due to:
