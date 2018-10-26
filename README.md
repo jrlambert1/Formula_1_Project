@@ -51,3 +51,15 @@ Having the datasets come from Kaggle, the information is relatively clean and do
 ## Here is a snapshot description of model preparation including:
 1. renamed columns to better describe column 
 2. renamed misspelt names (ex. Finish Surnames needed to be changed for accuracy)
+
+## Model Data
+
+Before running models to my dataset, I had to make sure I would pick efficient methods to create an accurate predictor using cross validation and other methods.  The biggest obstacle that I had to be cognoscente of is overfitting.  Hence the reason for the use of cross validation. 
+
+Cross Validation was executed by:
+1. Training set was taken from 18 years 
+2. Validation set was taken from 5 years
+3. Testing set was taken from 2 years
+
+
+
