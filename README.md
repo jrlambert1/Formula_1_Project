@@ -67,5 +67,13 @@ Cross Validation was executed by:
 2. Validation set was taken from 5 years
 3. Testing set was taken from 2 years
 
+##Model Selection
+Wanted to implement a real-world approach to my model selection for predicting a Formula 1 predictor ranking.  I decided the best avenue would be model stacking, seeing which models performed better than others.  
+
+###Performance Metrics
+
+
+
+
 
 
