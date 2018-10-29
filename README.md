@@ -80,6 +80,17 @@ Wanted to implement a real-world approach to my model selection for predicting a
 
 ### Performance Metrics
 
+**Random Forest Regressor**:
+The concluding result I was able to achieve and 87% score.
+Methods used during Random Forest Regressor:
+
+1.	Samples multiple subsamples with replacement from the training data
+2.	Train a decision tree for regression (splitting e.g. by maximizing reduction in variance ) on each subsample, where each leave node outputs the mean of all label values in the node.
+3.	Predict by averaging over the predictions of all decision trees.
+
+**NOTE** The reason as to why Random Forest Regressor achieved the highest results because it took the highest correlated features and used them in predicting the the outcomes of the race.  
+
+
 ## Conclusion
 As expected for the 2018 Formula 1 season, Lewis Hamilton won the Drivers' Championship.  While writing this comment (10/29/2018) the team championship is still up for grabs between Mercedes and Ferrari with two races to go.  However, Mercedes is likely to win due to its reasonable lead.  This confirms the **bias** aspect of the sport.  2019 will be a fun year to come with the new changes coming next season.  Let's hope Daryl Morey cakes his pants.  
 
