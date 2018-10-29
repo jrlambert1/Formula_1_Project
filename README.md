@@ -57,6 +57,15 @@ Having the datasets come from Kaggle, the information is relatively clean and do
 1. renamed columns to better describe column 
 2. renamed misspelt names (ex. Finish Surnames needed to be changed for accuracy)
 
+## Features
+
+## Features
+
+Used the highest correlated features using a threshold of at least 90 % correlation to my predicting variable, rank.
+
+<img width="693" alt="screen shot 2018-10-29 at 11 17 18 am" src="https://user-images.githubusercontent.com/34430819/47671770-8d19da00-db6d-11e8-9439-c0a2e77c5bab.png">
+
+
 ## Model Data
 
 Before running models to my dataset, I had to make sure I would pick efficient methods to create an accurate predictor using cross validation and other methods.  The biggest obstacle that I had to be cognoscente of is overfitting.  Hence the reason for the use of cross validation. 
