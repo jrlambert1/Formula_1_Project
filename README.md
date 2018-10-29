@@ -88,6 +88,8 @@ Methods used during Random Forest Regressor:
 2.	Train a decision tree for regression (splitting e.g. by maximizing reduction in variance ) on each subsample, where each leave node outputs the mean of all label values in the node.
 3.	Predict by averaging over the predictions of all decision trees.
 
+<img width="1025" alt="screen shot 2018-10-29 at 12 59 51 pm" src="https://user-images.githubusercontent.com/34430819/47676936-1a176000-db7b-11e8-8a33-b83011231a22.png">
+
 **NOTE** The reason as to why Random Forest Regressor achieved the highest results because it took the highest correlated features and used them in predicting the the outcomes of the race.  
 
 
@@ -101,6 +103,7 @@ As expected for the 2018 Formula 1 season, Lewis Hamilton won the Drivers' Champ
 
 My further interest would be a way to calculate aerodynamic packages for specific race tracks. My analysis of a way to measure this would be to use neural networks to analyze certain components of a car and compare those aero concepts to other teams and see which has the most efficient way through the track.   
 
+Also, another category that I want to focus on is the category of best of the rest.  The teams that make up the midfield that can't compete with the likes of Mercedes, Ferrari, and Red Bull.  **Why should this matter?**  For betting purposes as the odds of winning are much less compared to the front runners and the amount of money involved is much greater.
 
 
 
