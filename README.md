@@ -37,6 +37,8 @@ The following teams have a higher percentage of winning due to yearly budgetary 
 
 <img width="188" alt="screen shot 2018-10-26 at 11 06 40 am" src="https://user-images.githubusercontent.com/34430819/47584820-86425b80-d910-11e8-9c97-f9d842aa14ce.png">
 
+<img width="221" alt="screen shot 2018-10-29 at 12 51 10 pm" src="https://user-images.githubusercontent.com/34430819/47676505-0c150f80-db7a-11e8-992c-634d321ca139.png">
+
 I didn't include McLaren or Renault into this calculation based on their lack of success in recent years.  
   
 **Note:** The Reason I chose the 1991 season and onward as my training example is due to:
@@ -57,9 +59,7 @@ Having the datasets come from Kaggle, the information is relatively clean and do
 1. renamed columns to better describe column 
 2. renamed misspelt names (ex. Finish Surnames needed to be changed for accuracy)
 
-## Features
-
-## Features
+### Features
 
 Used the highest correlated features using a threshold of at least 90 % correlation to my predicting variable, rank.
 
