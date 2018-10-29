@@ -72,12 +72,12 @@ Wanted to implement a real-world approach to my model selection for predicting a
 ### Performance Metrics
 
 ## Conclusion
-As expected for the 2018 Formula 1 season, Lewis Hamilton won the Drivers' Championship.  While writing this comment (10/29/2018) the team championship is still up for grabs between Mercedes and Ferrari with two races to go.  However, Mercedes is likely to win due to its reasonable lead compared to the Ferrari team.  This confirms the *bias* aspect of the sport due to teams finding a performance advantage and thriving year to year.  2019 will be a fun year to come with the new changes coming next season.  Let's hope the Daryl Morey cakes his pants.  
+As expected for the 2018 Formula 1 season, Lewis Hamilton won the Drivers' Championship.  While writing this comment (10/29/2018) the team championship is still up for grabs between Mercedes and Ferrari with two races to go.  However, Mercedes is likely to win due to its reasonable lead.  This confirms the **bias** aspect of the sport.  2019 will be a fun year to come with the new changes coming next season.  Let's hope Daryl Morey cakes his pants.  
 
 <img width="795" alt="screen shot 2018-10-29 at 10 53 10 am" src="https://user-images.githubusercontent.com/34430819/47669899-27c3ea00-db69-11e8-9bbc-4285f86959c8.png">
 
 
-###Further Explorations
+### Further Explorations
 
 My further interest would be a way to calculate aerodynamic packages for specific race tracks. My analysis of a way to measure this would be to use neural networks to analyze certain components of a car and compare those aero concepts to other teams and see which has the most efficient way through the track.   
 
